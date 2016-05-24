@@ -1,0 +1,10 @@
+{
+  "name": "SPMeta2.JSOM.Utilities",
+  "version": "0.0.0",
+  "description": "SPMeta2.JSOM.Utilities",
+  "main": "app.js",
+  "author": {
+    "name": "User",
+    "email": ""
+  }
+}
